@@ -1,0 +1,60 @@
+[submodule "ErgoDox-profet23"]
+	path = zSource-Projects/ErgoDox-profet23
+	url = https://github.com/profet23/ErgoDox.git
+	branch = master
+[submodule "ErgoDox-antevens"]
+	path = zSource-Projects/ErgoDox-antevens
+	url = https://github.com/antevens/ErgoDox.git
+	branch = master
+[submodule "gelatin-antevens"]
+	path = zSource-Projects/gelatin-antevens
+	url = https://github.com/antevens/gelatin.git
+	branch = master
+[submodule "pcb-ergohack"]
+	path = zSource-Projects/pcb-ergohack
+	url = https://github.com/ergohack/kiibohd-pcb.git
+	branch = master
+[submodule "pcb-kiibohd"]
+	path = zSource-Projects/pcb-kiibohd
+	url = https://github.com/kiibohd/pcb.git
+	branch = master
+[submodule "ErgoDox-scudelletti"]
+	path = zSource-Projects/ErgoDox-scudelletti
+	url = https://github.com/scudelletti/ErgoDox
+	branch = master
+[submodule "ErgoDox-jehhalli"]
+	path = zSource-Projects/ErgoDox-jehhalli
+	url = https://github.com/jehhalli/ErgoDox.git
+	branch = master
+[submodule "ErgoDox-arij"]
+	path = zSource-Projects/ErgoDox-arij
+	url = https://github.com/arij/ErgoDox.git
+	branch = master
+[submodule "ergodox-layout-algernon"]
+	path = zSource-Projects/ergodox-layout-algernon
+	url = https://github.com/algernon/ergodox-layout.git
+	branch = master
+[submodule "keyboard-pcb-guide-ruiqimao"]
+	path = zSource-Projects/keyboard-pcb-guide-ruiqimao
+	url = https://github.com/ruiqimao/keyboard-pcb-guide
+	branch = master
+[submodule "keyboard_pcb-ahtn"]
+	path = zSource-Projects/keyboard_pcb-ahtn
+	url = https://github.com/ahtn/keyboard_pcb.git
+	branch = master
+[submodule "depot-regack"]
+	path = zSource-Projects/depot-regack
+	url = https://github.com/regack/depot.git
+	branch = master
+[submodule "Ergo_Infinity_Display-ibaranov"]
+	path = zSource-Projects/Ergo_Infinity_Display
+	url = https://github.com/ibaranov-cp/Ergo_Infinity_Display.git
+	branch = master
+[submodule "UHK-mondalaci"]
+	path = zSource-Projects/UHK-mondalaci
+	url = https://github.com/UltimateHackingKeyboard/electronics.git
+	branch = master
+[submodule "Dygma-Rise-dygmalab"]
+	path = zSource-Projects/Dygma-Rise-dygmalab
+	url = https://github.com/Dygmalab/Shortcut-Kicad-Schematic.git
+	branch = master
